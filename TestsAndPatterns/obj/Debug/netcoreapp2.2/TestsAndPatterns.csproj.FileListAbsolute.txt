@@ -1,0 +1,15 @@
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\TestsAndPatterns.deps.json
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\TestsAndPatterns.runtimeconfig.json
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\TestsAndPatterns.runtimeconfig.dev.json
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\TestsAndPatterns.dll
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\TestsAndPatterns.pdb
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\obj\Debug\netcoreapp2.2\TestsAndPatterns.csprojAssemblyReference.cache
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\obj\Debug\netcoreapp2.2\TestsAndPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\obj\Debug\netcoreapp2.2\TestsAndPatterns.AssemblyInfoInputs.cache
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\obj\Debug\netcoreapp2.2\TestsAndPatterns.AssemblyInfo.cs
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\obj\Debug\netcoreapp2.2\TestsAndPatterns.dll
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\obj\Debug\netcoreapp2.2\TestsAndPatterns.pdb
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\Ja\source\repos\TestsAndPatterns\TestsAndPatterns\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
